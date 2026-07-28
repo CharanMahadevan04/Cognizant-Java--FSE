@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Exercise3EcommerceSearch {
-}
